@@ -1,6 +1,6 @@
-💸 BudgetWise
+# BudgetWise
 
-Smart budgeting app to track income, expenses, and savings — powered by Firebase.
+💸 Smart budgeting app to track income, expenses, and savings — powered by Firebase.
 
 📌 About
 
